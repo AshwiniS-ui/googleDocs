@@ -6,8 +6,8 @@ Google Docs Plus is a document editor as well as a real-time collaboration and s
 
 ## Technology Stack & Concepts
 
-# ReactJS
-# NodeJS
-# Real-time collaboration using Socket.io
-# Rich and unique text editor provided by Quill
-# Document persistence using MongoDB Atlas
+* ReactJS
+* NodeJS
+* Real-time collaboration using Socket.io
+* Rich and unique text editor provided by Quill
+* Document persistence using MongoDB Atlas
